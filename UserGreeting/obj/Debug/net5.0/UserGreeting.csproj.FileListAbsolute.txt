@@ -1,0 +1,15 @@
+/Users/Alicia.Shen/Documents/Foundational_Katas/UserGreeting/bin/Debug/net5.0/UserGreeting.deps.json
+/Users/Alicia.Shen/Documents/Foundational_Katas/UserGreeting/bin/Debug/net5.0/UserGreeting.runtimeconfig.json
+/Users/Alicia.Shen/Documents/Foundational_Katas/UserGreeting/bin/Debug/net5.0/UserGreeting.runtimeconfig.dev.json
+/Users/Alicia.Shen/Documents/Foundational_Katas/UserGreeting/bin/Debug/net5.0/UserGreeting.dll
+/Users/Alicia.Shen/Documents/Foundational_Katas/UserGreeting/bin/Debug/net5.0/ref/UserGreeting.dll
+/Users/Alicia.Shen/Documents/Foundational_Katas/UserGreeting/bin/Debug/net5.0/UserGreeting.pdb
+/Users/Alicia.Shen/Documents/Foundational_Katas/UserGreeting/obj/Debug/net5.0/UserGreeting.csprojAssemblyReference.cache
+/Users/Alicia.Shen/Documents/Foundational_Katas/UserGreeting/obj/Debug/net5.0/UserGreeting.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Alicia.Shen/Documents/Foundational_Katas/UserGreeting/obj/Debug/net5.0/UserGreeting.AssemblyInfoInputs.cache
+/Users/Alicia.Shen/Documents/Foundational_Katas/UserGreeting/obj/Debug/net5.0/UserGreeting.AssemblyInfo.cs
+/Users/Alicia.Shen/Documents/Foundational_Katas/UserGreeting/obj/Debug/net5.0/UserGreeting.csproj.CoreCompileInputs.cache
+/Users/Alicia.Shen/Documents/Foundational_Katas/UserGreeting/obj/Debug/net5.0/UserGreeting.dll
+/Users/Alicia.Shen/Documents/Foundational_Katas/UserGreeting/obj/Debug/net5.0/ref/UserGreeting.dll
+/Users/Alicia.Shen/Documents/Foundational_Katas/UserGreeting/obj/Debug/net5.0/UserGreeting.pdb
+/Users/Alicia.Shen/Documents/Foundational_Katas/UserGreeting/obj/Debug/net5.0/UserGreeting.genruntimeconfig.cache
