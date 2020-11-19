@@ -12,7 +12,12 @@ namespace SumN
             if (!int.TryParse(n, out num)){
                 Console.WriteLine("Not an integer");
             } else {
-               
+                num = Int32.Parse(n);
+                if (num == 0){
+                    Console.WriteLine("0");
+                } else {
+
+                }
             }
                 
         }  
