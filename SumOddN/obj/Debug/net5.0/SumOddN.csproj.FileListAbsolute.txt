@@ -1,0 +1,15 @@
+/Users/Alicia.Shen/Documents/Foundational_Katas/SumOddN/obj/Debug/net5.0/SumOddN.csprojAssemblyReference.cache
+/Users/Alicia.Shen/Documents/Foundational_Katas/SumOddN/obj/Debug/net5.0/SumOddN.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Alicia.Shen/Documents/Foundational_Katas/SumOddN/obj/Debug/net5.0/SumOddN.AssemblyInfoInputs.cache
+/Users/Alicia.Shen/Documents/Foundational_Katas/SumOddN/obj/Debug/net5.0/SumOddN.AssemblyInfo.cs
+/Users/Alicia.Shen/Documents/Foundational_Katas/SumOddN/obj/Debug/net5.0/SumOddN.csproj.CoreCompileInputs.cache
+/Users/Alicia.Shen/Documents/Foundational_Katas/SumOddN/bin/Debug/net5.0/SumOddN.deps.json
+/Users/Alicia.Shen/Documents/Foundational_Katas/SumOddN/bin/Debug/net5.0/SumOddN.runtimeconfig.json
+/Users/Alicia.Shen/Documents/Foundational_Katas/SumOddN/bin/Debug/net5.0/SumOddN.runtimeconfig.dev.json
+/Users/Alicia.Shen/Documents/Foundational_Katas/SumOddN/bin/Debug/net5.0/SumOddN.dll
+/Users/Alicia.Shen/Documents/Foundational_Katas/SumOddN/bin/Debug/net5.0/ref/SumOddN.dll
+/Users/Alicia.Shen/Documents/Foundational_Katas/SumOddN/bin/Debug/net5.0/SumOddN.pdb
+/Users/Alicia.Shen/Documents/Foundational_Katas/SumOddN/obj/Debug/net5.0/SumOddN.dll
+/Users/Alicia.Shen/Documents/Foundational_Katas/SumOddN/obj/Debug/net5.0/ref/SumOddN.dll
+/Users/Alicia.Shen/Documents/Foundational_Katas/SumOddN/obj/Debug/net5.0/SumOddN.pdb
+/Users/Alicia.Shen/Documents/Foundational_Katas/SumOddN/obj/Debug/net5.0/SumOddN.genruntimeconfig.cache
