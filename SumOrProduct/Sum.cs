@@ -5,10 +5,8 @@ namespace SumN
 {
     class Program
     {
-        public static void Sum(int n)
+        public static void Sum(int num)
         {
-            int num = Int32.Parse(n);
-            
             if (num == 0){
                 Console.WriteLine("0");
             } else {
