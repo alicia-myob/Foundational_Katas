@@ -1,0 +1,15 @@
+/Users/Alicia.Shen/Documents/Foundational_Katas/HelloWorld/obj/Debug/net5.0/HelloWorld.csprojAssemblyReference.cache
+/Users/Alicia.Shen/Documents/Foundational_Katas/HelloWorld/obj/Debug/net5.0/HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Alicia.Shen/Documents/Foundational_Katas/HelloWorld/obj/Debug/net5.0/HelloWorld.AssemblyInfoInputs.cache
+/Users/Alicia.Shen/Documents/Foundational_Katas/HelloWorld/obj/Debug/net5.0/HelloWorld.AssemblyInfo.cs
+/Users/Alicia.Shen/Documents/Foundational_Katas/HelloWorld/obj/Debug/net5.0/HelloWorld.csproj.CoreCompileInputs.cache
+/Users/Alicia.Shen/Documents/Foundational_Katas/HelloWorld/bin/Debug/net5.0/HelloWorld.deps.json
+/Users/Alicia.Shen/Documents/Foundational_Katas/HelloWorld/bin/Debug/net5.0/HelloWorld.runtimeconfig.json
+/Users/Alicia.Shen/Documents/Foundational_Katas/HelloWorld/bin/Debug/net5.0/HelloWorld.runtimeconfig.dev.json
+/Users/Alicia.Shen/Documents/Foundational_Katas/HelloWorld/bin/Debug/net5.0/HelloWorld.dll
+/Users/Alicia.Shen/Documents/Foundational_Katas/HelloWorld/bin/Debug/net5.0/ref/HelloWorld.dll
+/Users/Alicia.Shen/Documents/Foundational_Katas/HelloWorld/bin/Debug/net5.0/HelloWorld.pdb
+/Users/Alicia.Shen/Documents/Foundational_Katas/HelloWorld/obj/Debug/net5.0/HelloWorld.dll
+/Users/Alicia.Shen/Documents/Foundational_Katas/HelloWorld/obj/Debug/net5.0/ref/HelloWorld.dll
+/Users/Alicia.Shen/Documents/Foundational_Katas/HelloWorld/obj/Debug/net5.0/HelloWorld.pdb
+/Users/Alicia.Shen/Documents/Foundational_Katas/HelloWorld/obj/Debug/net5.0/HelloWorld.genruntimeconfig.cache
