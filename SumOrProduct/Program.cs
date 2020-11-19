@@ -17,7 +17,7 @@ namespace SumOrProduct
                 } else if (num < 0){
                     Console.WriteLine("Negative number detected! Please enter a positive integer: ");
                 } else {
-                    int number = Int32.Parse(n);
+                    long number = long.Parse(n);
                     bool sump = true;
                     while(sump){
                         Console.WriteLine("Would you like to calculate the sum or the product of 1 to " + n + " ? (s/p): ");

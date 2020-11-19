@@ -5,7 +5,7 @@ namespace SumN
 {
     class Program
     {
-        public static void Sum(int num)
+        public static void Sum(long num)
         {
             if (num == 0){
                 Console.WriteLine("0");
@@ -14,7 +14,7 @@ namespace SumN
                 for (int i = 0; i < num; i++){
                     array[i] = i+1;
                 }
-                int sumArray = array.Sum();
+                long sumArray = array.Sum();
                 Console.WriteLine("Sum: " + sumArray + "\n");
             }
             
