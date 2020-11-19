@@ -1,0 +1,15 @@
+/Users/Alicia.Shen/Documents/Foundational_Katas/GreetAliceBob/obj/Debug/net5.0/GreetAliceBob.csprojAssemblyReference.cache
+/Users/Alicia.Shen/Documents/Foundational_Katas/GreetAliceBob/obj/Debug/net5.0/GreetAliceBob.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Alicia.Shen/Documents/Foundational_Katas/GreetAliceBob/obj/Debug/net5.0/GreetAliceBob.AssemblyInfoInputs.cache
+/Users/Alicia.Shen/Documents/Foundational_Katas/GreetAliceBob/obj/Debug/net5.0/GreetAliceBob.AssemblyInfo.cs
+/Users/Alicia.Shen/Documents/Foundational_Katas/GreetAliceBob/obj/Debug/net5.0/GreetAliceBob.csproj.CoreCompileInputs.cache
+/Users/Alicia.Shen/Documents/Foundational_Katas/GreetAliceBob/bin/Debug/net5.0/GreetAliceBob.deps.json
+/Users/Alicia.Shen/Documents/Foundational_Katas/GreetAliceBob/bin/Debug/net5.0/GreetAliceBob.runtimeconfig.json
+/Users/Alicia.Shen/Documents/Foundational_Katas/GreetAliceBob/bin/Debug/net5.0/GreetAliceBob.runtimeconfig.dev.json
+/Users/Alicia.Shen/Documents/Foundational_Katas/GreetAliceBob/bin/Debug/net5.0/GreetAliceBob.dll
+/Users/Alicia.Shen/Documents/Foundational_Katas/GreetAliceBob/bin/Debug/net5.0/ref/GreetAliceBob.dll
+/Users/Alicia.Shen/Documents/Foundational_Katas/GreetAliceBob/bin/Debug/net5.0/GreetAliceBob.pdb
+/Users/Alicia.Shen/Documents/Foundational_Katas/GreetAliceBob/obj/Debug/net5.0/GreetAliceBob.dll
+/Users/Alicia.Shen/Documents/Foundational_Katas/GreetAliceBob/obj/Debug/net5.0/ref/GreetAliceBob.dll
+/Users/Alicia.Shen/Documents/Foundational_Katas/GreetAliceBob/obj/Debug/net5.0/GreetAliceBob.pdb
+/Users/Alicia.Shen/Documents/Foundational_Katas/GreetAliceBob/obj/Debug/net5.0/GreetAliceBob.genruntimeconfig.cache
