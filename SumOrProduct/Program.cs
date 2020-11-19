@@ -26,7 +26,8 @@ namespace SumOrProduct
                             SumN.Program.Sum(number);
                             sump = false;
                         } else if (ans.Equals("p")){
-                            
+                            Product.prod(number);
+                            sump = false;
                         } else {
                             Console.WriteLine("Invalid input. Please try again! ");
                         }
@@ -38,7 +39,7 @@ namespace SumOrProduct
                         if (cont.Equals("n", StringComparison.OrdinalIgnoreCase)){
                             ask = false;
                             run = false;
-                            Console.WriteLine("Thanks for using SumN!");
+                            Console.WriteLine("Thanks for using SumOrProduct!");
                         } else if (cont.Equals("y", StringComparison.OrdinalIgnoreCase)){
                             ask = false;
                             run = true;
