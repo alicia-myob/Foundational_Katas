@@ -7,7 +7,7 @@ namespace SumN
     {
         public static void Sum(int n)
         {
-            num = Int32.Parse(n);
+            int num = Int32.Parse(n);
             
             if (num == 0){
                 Console.WriteLine("0");
