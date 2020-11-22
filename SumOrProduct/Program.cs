@@ -9,6 +9,7 @@ namespace SumOrProduct
             bool ask = true;
             bool run = true;
             while (run){
+                ask = true;
                 Console.WriteLine("Enter a positive integer: ");
                 string n = Console.ReadLine();
                 int num = -1;
